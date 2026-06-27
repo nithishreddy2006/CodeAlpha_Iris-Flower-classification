@@ -60,7 +60,6 @@ The model achieves high accuracy in classifying Iris flowers and provides a conf
    ```
 
 ## Output
-Add your output screenshot here after uploading it to the repository.
 <img width="501" height="393" alt="Iris" src="https://github.com/user-attachments/assets/dfa46fd1-f653-44f1-8965-8fe9254e18ff" />
 
 
